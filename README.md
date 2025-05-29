@@ -87,15 +87,15 @@ graph TD
 ## 🎯 Conclusiones Clave
 1. Hallazgos Principales
 
-Respuesta Tecnológica a la Crisis
+-Respuesta Tecnológica a la Crisis
 
-Bitcoin surgió como solución técnica a:
+-Bitcoin surgió como solución técnica a:
 
-Fallos sistémicos bancarios
+-Fallos sistémicos bancarios
 
-Políticas monetarias discrecionales
+-Políticas monetarias discrecionales
 
-Centralización del control financiero
+-Centralización del control financiero
 
 2. Innovaciones Disruptivas
 
@@ -108,13 +108,13 @@ E[Claves Asimétricas] --> F(Privacidad)
 
 3. Legado Permanente
 
-Impacto	Ejemplo Actual
+-Impacto	Ejemplo Actual
 
-Tecnológico	Smart Contracts (Ethereum)
+-Tecnológico	Smart Contracts (Ethereum)
 
-Económico	Criptoeconomía DeFi
+-Económico	Criptoeconomía DeFi
 
-Social	Movimiento Web3
+-Social	Movimiento Web3
 
 
 ## 📚 Referencias Fundamentales
